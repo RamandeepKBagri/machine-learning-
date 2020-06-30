@@ -1,6 +1,6 @@
 # Machine Learning
-##Machine learning examples are from two coursework given below.
-- Introduction to Machine Learning and Data Mining (Prof - Oswald Campesato)
+## Machine learning examples are from two coursework given below.
+- Introduction to Machine Learning and Data Mining (Instructor - Oswald Campesato(UCSC Extension))
   --- Histograms and Bayesian classifiers
   --- Principal component analysis
   --- Linear classifiers and regression
