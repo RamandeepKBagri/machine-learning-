@@ -1,5 +1,5 @@
 # Machine Learning
-## Machine learning examples are from two coursework given below.
+## Machine learning examples is from below coursework.
 - Introduction to Machine Learning and Data Mining (Instructor - Oswald Campesato(UCSC Extension))
   --- Histograms and Bayesian classifiers
   --- Principal component analysis
